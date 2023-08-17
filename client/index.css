@@ -1,0 +1,22 @@
+.formWrapper{
+    display: flex;
+    justify-content: center;    
+}
+
+.inputFeild{
+    height:3rem;
+    width:15rem;
+    border-radius: 0.8rem;
+    outline: none;
+}
+
+.btn{
+    width: 16rem;
+    height:3rem;
+    border-radius: 0.8rem;
+    outline: none;
+    color:white;
+    margin-top: 2rem;
+    background-color: blue;
+}
+
